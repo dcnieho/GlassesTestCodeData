@@ -1,0 +1,37 @@
+> cameraParams =
+>
+>   cameraParameters with properties:
+>
+>    Camera Intrinsics
+>                     IntrinsicMatrix: [3×3 double]
+>                         FocalLength: [791.6237 793.6401]
+>                      PrincipalPoint: [644.1998 340.4305]
+>                                Skew: 0
+>                    RadialDistortion: [-0.4115 0.1362]
+>                TangentialDistortion: [0 0]
+>                           ImageSize: [720 1280]
+>
+>    Camera Extrinsics
+>                    RotationMatrices: [3×3×27 double]
+>                  TranslationVectors: [27×3 double]
+>
+>    Accuracy of Estimation
+>               MeanReprojectionError: 0.2391
+>                  ReprojectionErrors: [54×2×27 double]
+>                   ReprojectedPoints: [54×2×27 double]
+>
+>    Calibration Settings
+>                         NumPatterns: 27
+>                         WorldPoints: [54×2 double]
+>                          WorldUnits: 'millimeters'
+>                        EstimateSkew: 0
+>     NumRadialDistortionCoefficients: 2
+>        EstimateTangentialDistortion: 0
+>
+> >> cameraParams.IntrinsicMatrix
+>
+> ans =
+>
+>   791.6237         0         0
+>          0  793.6401         0
+>   644.1998  340.4305    1.0000

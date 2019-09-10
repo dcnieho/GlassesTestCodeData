@@ -1,0 +1,26 @@
+{
+    "rec_id": "sidb6en",
+    "rec_info": {
+        "EagleId": "d5b76ab4-1618-4a65-a55b-9b9acb818ab4",
+        "Name": "Recording002",
+        "Notes": ""
+    },
+    "rec_participant": "pao5bcl",
+    "rec_project": "eng7ckw",
+    "rec_state": "done",
+    "rec_segments": 1,
+    "rec_length": 133,
+    "rec_calibration": "ommnnpt",
+    "rec_created": "2018-10-17T07:28:27+0000",
+    "rec_et_samples": 6693,
+    "rec_et_valid_samples": 6461,
+    "ts_right_x": -32.5,
+    "ts_right_y": -27.0,
+    "ts_right_z": -19.0,
+    "ts_left_x": 32.5,
+    "ts_left_y": -27.0,
+    "ts_left_z": -19.0,
+    "ts_green_limit_radius": 10.0,
+    "ts_yellow_limit_radius": 12.5
+}
+

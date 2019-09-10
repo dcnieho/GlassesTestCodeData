@@ -1,0 +1,28 @@
+Start recording (for pupil labs and EyeRecToo)
+
+1) Calibration (system dependent). Check accuracy before starting the recording
+(gaze should be within black of corner gaze markers). Recalibrate if needed, up
+to three times. Then run with it regardless.
+Start recording (for Tobii and SMI)
+
+2) Validation (look at 9 targets from upper left to lower right)
+
+3) Baseline (10 s): the participant standing still and gazing at the central
+marker
+
+4) Vowels (10 s): Swedish vowels (AOUÅ EIYÄÖ). x3
+
+5) Eyebrows (10 s): raise both eye browns repeatedly (1 Hz)
+
+6) Glasses movement: stare at the central marker while moving the glasses (about
+1-2 cm)
+
+Horizontal (10 s) (move glasses in x-axis)
+Vertical (10 s) (move the glasses in y-axis)
+Depth (10 s) (move the glasses in z-axis)
+The exact range of movements was not defined exactly, but the eye corners and
+pupil were always in picture.
+
+7) Validation (look at 9 targets from upper left to lower right). Ask the
+subject to put the glasses in the same position as in step 1).
+Stop recording
