@@ -6,3 +6,5 @@ It also contains the code used for preprocessing the recordings of the different
 
 To recreate the figures, first run `createCache.m`. The various figures are then created by the files `exampleData.m`, `validation.m` and `offsetsAndLoss.m`.
 The figure comparing 50Hz and 100Hz tobii data is created by running `G2Sawtooth.m`.
+
+The code and data in this repository are licensed under the Creative Commons Attribution 4.0 (CC BY 4.0) license, unless otherwise stated.
