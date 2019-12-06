@@ -66,7 +66,7 @@ for p=1:2
         h2 = plot(tsr,datr,'LineWidth',1.2,'Color',colors(2,:));
         
         xlim([0 max([tsl(end) tsr(end)])])
-        if q==1
+        if q==1 || q==2
             axis ij
         end
         ylim(ylims{q,p});
