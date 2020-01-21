@@ -1,6 +1,6 @@
 # Data and code for Niehorster, Santini et al., 2019.
 
-This package contains the data presented in Niehorster, Santini, Hessels, Hooge, Kasneci & Nyström (in press). The impact of slippage on the data quality of head-worn eye trackers. Behavior Research Methods.
+[This package contains the data presented in Niehorster, Santini, Hessels, Hooge, Kasneci & Nyström (2020). The impact of slippage on the data quality of head-worn eye trackers. Behavior Research Methods. doi: 10.3758/s13428-019-01307-0](https://doi.org/10.3758/s13428-019-01307-0)
 
 It also contains the code used for preprocessing the recordings of the different eye-tracking setups, and the analysis code that created the figures in the paper.
 
